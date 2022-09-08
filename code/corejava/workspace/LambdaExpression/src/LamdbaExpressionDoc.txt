@@ -1,0 +1,24 @@
+-> Functional Programming Languages
+	1. Functional Programming can be achieved using lambda Expression
+	2. using Lambda expression you can use wrap implementation inside function like we do in JS 
+	3. To Use lambda Expression you must have a functional interface.
+ 
+ -> Functional Interface
+ 	1. It is an interface which has only single abstract method.
+ 	
+-> Lambda Expression	
+	a. It is an implementation for the abstract method of the functional interface.
+	b. There is a syntax to create a lambda expression
+		Syntax : () -> {};
+		() - Arguments 
+		-> - Arrow Token
+		{} - Method Execution
+		
+		
+		
+		
+
+		
+		
+		
+		
